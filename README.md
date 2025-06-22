@@ -172,10 +172,8 @@ NOISE SOURCE DETECTION COMPLETED
 ---
 
 
-**Mata Kuliah:** Algoritma dan Struktur Data  
-**Topik:** Graph Traversal Algorithms Implementation  
-**Institusi:** Institut Teknologi Bandung (ITB)
-
+**Mata Kuliah:** Strategi Algoritma
+**Topik:** BFS, DFS, A*
 ---
 
 **© 2025 Bevinda Vivian (13523120) - Noise Source Detection**
