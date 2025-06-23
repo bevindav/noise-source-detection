@@ -21,6 +21,12 @@ Program mensimulasikan grid 5x5 dengan noise sources yang dideteksi secara otoma
 ---
 
 ##  Cara Menjalankan
+Clone github ini
+```
+https://github.com/bevindav/noise-source-detection
+```
+Pastikan terminal sudah berada di folder src seperti C:\Users\Bevinda\Downloads\noise-source-detection\src
+
 ###  Versi GUI (Recommended):
 ```powershell
 javac -d ../bin NoiseDetectionGUI.java 2>&1
